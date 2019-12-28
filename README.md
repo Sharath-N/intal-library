@@ -13,4 +13,17 @@ Refer the intal.h file for the description of the functions.
 
 #### Sample client file:
 
+Expected output for a sample client:
+
+First intal: 4999<br />
+Second intal: 2001<br />
+Two intals after increment and decrement:<br />
+5000<br />
+2000<br />
+Max of two intals: 5000<br />
+Sum: 7000<br />
+Diff: 3000<br />
+Product: 10000000<br />
+Quotient: 2<br />
+5000 ^ 2: 25000000<br />
 
